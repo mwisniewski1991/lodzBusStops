@@ -1,0 +1,1334 @@
+street_name,stops_number,stop_name_dirty
+1 Maja ,"['3033,3032']",Dubois (Zgierz) 
+1 Maja ,"['3303,3304']",MDK (Aleksandrów) 
+1 Maja ,"['3262,3034']",Piłsudskiego (Zgierz) 
+1 Maja ,['0523'],Pogonowskiego 
+1 Maja ,['3030'],plac Kilińskiego (Zgierz) 
+1 Maja ,['0522'],Żeligowskiego 
+11 Listopada ,['2190'],Dw. Łódź Radogoszcz Zach. 
+11 Listopada ,['2189'],Dw. Łódź Radogoszcz Zach.NŻ 
+11 Listopada ,"['0460,0454']",Jantarowa 
+11 Listopada ,['2191'],Radogoszcz Zachód 
+3 Maja ,['4863'],Kilińskiego/CPN (Lutomiersk) NŻ 
+3 Maja ,"['3733,3734']",Moniuszki (Lutomiersk) 
+3 Maja ,"['0525,0528']",Morska 
+3 Maja ,"['0527,0526']",Świetlicowa 
+6 Sierpnia ,['2156'],Pogonowskiego NŻ 
+Abramowskiego ,['0001'],Sienkiewicza 
+Aleksandrowska ,"['0012,0014,0013,0015']",Bielicowa 
+Aleksandrowska ,"['1902,1901']",Chochoła 
+Aleksandrowska ,"['0018,0008,0019,0009']",Kaczeńcowa 
+Aleksandrowska ,"['0022,0003']",Lechicka 
+Aleksandrowska ,"['1448,1447']",Romanowska 
+Aleksandrowska ,['1871'],Rydzowa 
+Aleksandrowska ,"['1903,1904']",Spadkowa 
+Aleksandrowska ,"['0004,1900,1899,1821,0021']",Szczecińska 
+Aleksandrowska ,"['0020,1897,0007']",Szparagowa 
+Aleksandrowska ,"['0011,0010,0016,0017']",Traktorowa 
+Andrespol ,['3233'],Andrespol 
+Andrespol ,['3386'],Urząd Gminy 
+Armii Krajowej ,"['2296,2297']",Batalionów Chłopskich 
+Armii Krajowej ,"['4778,3268']",Długa (Zgierz) 
+Armii Krajowej ,"['0024,0025']",Napierskiego 
+Augustów ,"['0031,0026']",Bacewicz NŻ 
+Augustów ,"['0410,0409']",Rokicińska 
+Augustów ,"['0028,0029']",Rokicińska NŻ 
+Augustów ,"['0030,0027']",Wujaka 
+Bandurskiego ,"['1773,1772']",Atlas Arena 
+Bandurskiego ,"['1599,1595,1596,2090']",Dw. Łódź Kaliska 
+Bandurskiego ,"['1597,1600']",Wileńska 
+Bandurskiego ,"['2126,2125']",Wróblewskiego 
+Bartoszewskiego ,"['0940,0941']",Demokratyczna 
+Bartoszewskiego ,['0937'],Pabianicka 
+Bartoszewskiego ,"['0939,0938']",Pryncypalna 
+Bartoszewskiego ,['1034'],Rzgowska NŻ 
+Bartoszewskiego ,"['0942,0943']",Siostrzana 
+Bałucki Rynek ,"['1869,1870']",Bałucki Rynek 
+Bednarska ,['2295'],Pabianicka 
+Bednarska ,"['2228,2229']",Unicka NŻ 
+Biegunowa ,"['0147,1876']",Krakowska 
+Biegunowa ,"['0156,1586']",Krańcowa 
+Bieszczadzka ,"['0037,0038']",Kolumny NŻ 
+Bohaterów Warszawy ,['3242'],Gimnazjum(Brzeziny) 
+Borowa ,['0039'],Siewna 
+Boya Żeleńskiego ,"['0040,0041']",Sucharskiego 
+Bratysławska ,['0044'],Wileńska 
+Bratysławska ,"['0042,0045']",Wróblewskiego 
+Broniewskiego ,"['0053,0047']",Kilińskiego 
+Broniewskiego ,"['0052,0048']",Kraszewskiego 
+Broniewskiego ,['0050'],Tatrzańska 
+Broniewskiego ,"['0049,0051']",Śmigłego-Rydza 
+Bronisin ,['1186'],Brójecka NŻ 
+Bronisin ,"['1190,1243']",Paprociowa NŻ 
+Bronisin ,"['1245,1247']",Wiskicka NŻ 
+Bronisin Dworski ,"['3521,3522']",Pogodna 
+Brukowa ,['0054'],Limanowskiego 
+Brukowa ,"['0055,0057']",Pojezierska 
+Brukowa ,['0056'],św. Teresy 
+Brzezińska ,"['1803,1802']",Autostrada A1 # 
+Brzezińska ,['1786'],CH M1 
+Brzezińska ,"['0073,0069']",Granatowa NŻ 
+Brzezińska ,"['0070,0072']",Hiacyntowa 
+Brzezińska ,"['0065,0077']",Janosika 
+Brzezińska ,"['0074,0068']",Karkonoska NŻ 
+Brzezińska ,"['0078,0064']",Kerna 
+Brzezińska ,"['0066,0076']",Marmurowa 
+Brzezińska ,['3382'],Mazowiecka (Andrespol) NŻ 
+Brzezińska ,"['1813,1973']",Nowosolna 
+Brzezińska ,"['0075,0067']",Olkuska NŻ 
+Brzezińska ,['3374'],Rokicińska(Andrespol) 
+Brzezińska ,"['3375,3376']",Sienkiewicza(Andrespol) 
+Brzezińska ,['3383'],Słowiańska(Andrespol) NŻ 
+Brzezińska ,"['1799,1800']",Tatarkiewicza 
+Brzezińska ,"['0063,0079']",Śnieżna 
+Brzeźna ,"['0080,0081']",Piotrkowska 
+Brójecka ,['0513'],Bronisin NŻ 
+Brójecka ,"['0510,0508']",Czternastu Straconych NŻ 
+Brójecka ,"['2074,2075']",Paprociowa NŻ 
+Bukowiec ,"['3329,3330']",Bukowiec 61 
+Byszewska ,"['3079,3083']",Boginia 
+Byszewska ,"['1907,1906']",Byszewska 26 # 
+Byszewska ,['1905'],Nowosolna 
+Byszewska ,"['1908,1909']",Pomarańczowa 
+Chocianowicka ,"['0088,0083']",Chocianowicka 143 
+Chocianowicka ,['0089'],Chocianowicka 199 
+Chocianowicka ,['0082'],Chocianowicka 199 NŻ 
+Chocianowicka ,"['0086,0085']",Chocianowicka 57 NŻ 
+Chocianowicka ,['0087'],Chocianowicka 95 
+Chocianowicka ,['0084'],Chocianowicka 95 NŻ 
+Chocianowicka ,['2016'],Pabianicka 
+Cmentarna ,['4899'],Legionów 
+Cmentarna ,['4689'],Srebrzyńska 
+Czahary ,['0180'],Czahary 
+Czahary ,['2310'],Prądzyńskiego 
+Czahary ,['1865'],Prądzyńskiego NŻ 
+Czechosłowacka ,"['0094,0095']",Edwarda 
+Czechosłowacka ,"['0093,0096']",Mazowiecka 
+Czechosłowacka ,['0097'],Niciarniana 
+Czerwona ,['0098'],Piotrkowska NŻ 
+DK nr 71 ,"['0176,0177']",Godlewskiego NŻ 
+DK nr 71 ,"['0174,0175']",Przyklasztorze NŻ 
+DK nr 71 ,"['0138,0139']",Łagiewniki Nowe NŻ 
+Daszyńskiego ,"['3306,3302']",Sienkiewicza (Aleks.) 
+Demokratyczna ,['0722'],Bartoszewskiego 
+Demokratyczna ,['0132'],Bartoszewskiego NŻ 
+Demokratyczna ,['0131'],Demokratyczna 117 NŻ 
+Demokratyczna ,"['0134,0129']",Dzwonowa 
+Demokratyczna ,"['0133,0130']",Matowa NŻ 
+Demokratyczna ,['0135'],Starorudzka 
+Demokratyczna ,['0731'],Trybunalska 
+Dobieszków ,['3452'],Hotel 
+Dobieszków ,"['3453,3454']",Młyn 
+Dobieszków ,['3451'],O.Sz. i W 
+Dobieszków ,"['3455,3456']",Wieś 
+Dojazdowa ,['4894'],Słowicza NŻ 
+Dolna ,"['4590,0136,0137']",Łagiewnicka 
+Doły ,"['1593,1877']",Smutna NŻ 
+Doły ,"['1592,1878']",Telefoniczna NŻ 
+Drewnowska ,"['0141,0145']",Karskiego NŻ 
+Drewnowska ,['0146'],Kasprzaka 
+Drewnowska ,['0140'],Okrzei 
+Drewnowska ,"['0142,0144']",Piwna 
+Drewnowska ,['0143'],Zachodnia 
+Dubois ,"['0150,0153']",Hoffmanowej 
+Dubois ,"['0151,0152']",Pabianicka 
+Dubois ,"['0149,0154']",Pusta NŻ 
+Dąbrowa ,"['3431,3432']",Dąbrowa 
+Dąbrowskiego ,"['0114,1753,1754']",Dw. Łódź Dąbrowa 
+Dąbrowskiego ,"['0123,0100,0124']",Kilińskiego 
+Dąbrowskiego ,"['0119,0106,0107,0118']",Kossaka 
+Dąbrowskiego ,"['0110,0112']",Lodowa 
+Dąbrowskiego ,"['0109,0113']",Ossendowskiego 
+Dąbrowskiego ,"['1630,1631,0117,0108']",Podhalańska 
+Dąbrowskiego ,"['0127,0126']",Rzgowska 
+Dąbrowskiego ,"['0120,0105,4663']",Tatrzańska 
+Dąbrowskiego ,"['1857,0111']",Tomaszowska 
+Dąbrowskiego ,"['0102,0122']",Śmigłego-Rydza 
+Długa ,['3110'],Armii Krajowej(Zgierz) 
+Długa ,"['3024,3025']",Sierakowskiego (Zgierz) 
+Długa ,"['3029,3028']",Skłodowskiej-Curie (Zgierz) 
+Długa ,"['3027,3026']",Spacerowa (Zgierz) 
+Długa ,"['3031,3221']",plac Kilińskiego (Zgierz) 
+Długa ,"['3022,3023']",Łagiewnicka (Zgierz) # 
+Edwarda ,['2212'],Czechosłowacka 
+Edwarda ,"['0162,0163']",Pomorska 
+Ekonomiczna ,"['0254,0253']",Graniczna NŻ 
+Ekonomiczna ,"['0252,0251']",Kwaterunkowa NŻ 
+Ekonomiczna ,"['0413,0246']",Starorudzka NŻ 
+Ekonomiczna ,"['0249,0250']",Żwawa NŻ 
+Elektronowa ,['1875'],Nowe Sady 
+Elektronowa ,['0164'],Obywatelska 
+Elektronowa ,['0165'],Zakłady Mięsne 
+Fabryczna ,['0169'],Kilińskiego 
+Fabryczna ,"['0167,0168']",Przędzalniana 
+Fabryczna ,['0166'],Targowa NŻ 
+Feliksińska ,"['1577,1578']",Dworcowa NŻ 
+Felińskiego ,"['1783,1917']",Gojawiczyńskiej 
+Felińskiego ,"['0172,0171']",Kadłubka 
+Felińskiego ,"['0170,0173']",Konspiracyjnego WP 
+Fizylierów ,"['0179,2029']",Złotno 
+Franciszkańska ,['2322'],Inflancka NŻ 
+Franciszkańska ,['2321'],Kowalska 
+Franciszkańska ,"['2299,2265']",Organizacji WiN 
+Franciszkańska ,"['0189,0190']",Północna 
+Franciszkańska ,"['0185,0188']",Tokarzewskiego 
+Franciszkańska ,"['0183,4216,0184']",Wojska Polskiego 
+Fredry ,['3180'],SP nr 1(Brzeziny) 
+Gajcego ,"['2149,2148']",Dw. Łódź Andrzejów 
+Gajcego ,"['2144,2145']",Rataja 
+Gajcego ,"['1840,1841']",Rokicińska 
+Gajcego ,['2150'],Rokicińska NŻ 
+Gajcego ,"['2146,2147']",Szelburg-Zarembiny NŻ 
+Gajcego ,"['0192,0191']",Słowiańska NŻ 
+Gajcego ,"['1842,1413']",Zakładowa 
+Gałczyńskiego ,"['3042,3043']",Parzęczewska  (Zgierz) 
+Gałczyńskiego ,"['3044,3045']",Tuwima (Zgierz) 
+Gdańska ,"['0195,0197']",1 Maja 
+Gdańska ,['4924'],Gdańska 
+Gdańska ,['0196'],Legionów 
+Gdańska ,['0193'],Skłodowskiej-Curie 
+Gdańska ,['0199'],Struga 
+Gdańska ,"['0194,0198']",Zielona 
+Gillette ,"['1914,2042']",Nowy Józefów 
+Gojawiczyńskiej ,"['0201,0202']",Dąbrowskiego 
+Golfowa ,['0575'],Maratońska 
+Gombrowicza ,['0204'],Pabianicka NŻ 
+Grabina ,"['3325,3326']",Grabina/Lipowa1 
+Grabińska ,"['0043,0046']",Grabińska 10 NŻ 
+Grabińska ,"['0034,0035']",Nowosolna 
+Grabińska ,"['0059,0060']",Podwodna NŻ 
+Graniczna ,['1643'],Graniczna 62 NŻ 
+Graniczna ,"['2009,2010']",Przestrzenna NŻ 
+Graniczna ,['1640'],Rozalii NŻ 
+Główna ,"['3588,3589']",Bedońska 
+Główna ,"['3586,3587']",Okólna 
+Główna ,"['3592,3593']",Rybna 
+Hetmańska ,"['1826,2109,2110,1827']",Dąbrówki 
+Hetmańska ,"['2106,2105']",Janów 
+Hetmańska ,['1811'],Juranda ze Spychowa 
+Hetmańska ,"['2108,2107,1810,1809']",Zagłoby 
+Hetmańska ,"['4721,2111,2112']",Zakładowa 
+Hipoteczna ,['0207'],Limanowskiego 
+Hipoteczna ,"['0205,0206']",Olsztyńska 
+Hipoteczna ,"['2280,2281']",Pojezierska 
+Inflancka ,"['0210,0211']",Gibalskiego 
+Inflancka ,"['0212,0209']",Marysińska 
+Inflancka ,"['4153,1404']",Zagajnikowa 
+Inflancka ,"['0208,0213']",r. Powstańców 1863r. 
+Inowrocławska ,['2234'],Wielkopolska 
+Jana Pawła II ,['3551'],Daszyńskiego (Konst.) 
+Jana Pawła II ,['3552'],Moniuszki (Konstantynów) 
+Jana Pawła II ,"['1327,1294']",Obywatelska 
+Jana Pawła II ,['1298'],Pabianicka 
+Jana Pawła II ,"['1293,1328']",Rogozińskiego 
+Jana Pawła II ,"['1295,1326']",Wróblewskiego 
+Jana Pawła II ,"['3549,3550']",pl. Kościuszki (Konst.) 
+Jana Pawła II ,"['3282,3553']",pl. Wolności(Konstantynów) 
+Jana Pawła II ,"['1296,1325']",Łaska 
+Janosika ,"['0217,0218']",Powstańców Śląskich 
+Janosika ,"['0221,0214']",Pszczyńska 
+Janosika ,"['0215,0220']",Telefoniczna 
+Janosika ,"['0219,0216']",Wyżynna 
+Jaracza ,['0224'],Kilińskiego 
+Jaracza ,['0223'],P.O.W. 
+Jaracza ,['0225'],Piotrkowska 
+Jaracza ,['0222'],Wierzbowa 
+Julianowska ,"['0237,0234']",Zgierska 
+Julianowska ,"['0235,0236']",Żarnowcowa 
+Jędrzejowska ,"['2244,2245']",Whirlpool NŻ 
+Józefów ,"['0229,0230']",Bieszczadzka NŻ 
+Józefów ,"['0228,0231']",Józefów 60 NŻ 
+Józefów ,"['0232,0227']",Nowe Górki NŻ 
+Józefów ,"['0233,0226']",Rzgowska NŻ 
+Kaczeńcowa ,"['0239,0243']",Aleksandrowska 
+Kaczeńcowa ,"['0240,0242']",Kaczeńcowa 16 NŻ 
+Kaczeńcowa ,"['0244,0238']",Lniana 
+Kaczeńcowa ,['0241'],św. Teresy 
+Karolewska ,['0257'],Wileńska 
+Karolewska ,['1690'],Włókniarzy 
+Karolewska ,"['2071,2072']",Włókniarzy (Dw. Ł. Kaliska) 
+Kasprowicza ,"['1715,1720']",ROD Relaks NŻ 
+Kasprowicza ,"['1716,1719']",Witkacego NŻ 
+Kasprzaka ,"['0264,0261']",Drewnowska 
+Kasprzaka ,"['0262,0263']",Kutrzeby 
+Kasprzaka ,"['0266,0259']",Legionów 
+Kasprzaka ,"['0260,0265']",Srebrzyńska 
+Kilińskiego ,"['0316,0270']",Broniewskiego 
+Kilińskiego ,"['2178,2177']",Dw. Łódź Chojny 
+Kilińskiego ,"['0271,0272,0314']",Dąbrowskiego 
+Kilińskiego ,"['0282,0303']",Fabryczna 
+Kilińskiego ,['2337'],Jaracza 
+Kilińskiego ,['4861'],Klasztor (Lutomiersk) NŻ 
+Kilińskiego ,"['0291,0297']",Narutowicza 
+Kilińskiego ,"['4750,0286,2202']",Nawrot 
+Kilińskiego ,"['0301,0284']",Piłsudskiego 
+Kilińskiego ,"['0293,0295']",Pomorska 
+Kilińskiego ,"['0273,0313,0312']",Poznańska 
+Kilińskiego ,"['0276,0311,0275,0310']",Przybyszewskiego 
+Kilińskiego ,"['0298,0290']",Przystanek mBank 
+Kilińskiego ,['0294'],Północna 
+Kilińskiego ,"['0292,0296']",Rewolucji 1905 r. 
+Kilińskiego ,"['0278,0277,0309,0308']",Senatorska 
+Kilińskiego ,"['0288,0299,0300']",Tuwima 
+Kilińskiego ,"['0306,0279']",Tymienieckiego 
+Klonowa ,"['0317,0318']",Limanowskiego 
+Kniaziewicza ,"['0320,0321']",Brzóski 
+Kniaziewicza ,"['0247,0319']",Kalinowa NŻ 
+Kolumny ,"['1797,1796']",Autostrada A1 NŻ 
+Kolumny ,"['0322,0344']",Bronisin NŻ 
+Kolumny ,"['0325,0341']",Cierniówki NŻ 
+Kolumny ,"['0334,0332']",Czajewskiego NŻ 
+Kolumny ,"['0327,0339']",Kalinowskiego 
+Kolumny ,['3448'],Kolumny 
+Kolumny ,"['2067,2068']",Kolumny 118 NŻ 
+Kolumny ,"['0324,0342']",Kolumny 242 NŻ 
+Kolumny ,"['2066,2065']",Kolumny 88 NŻ 
+Kolumny ,"['0338,0328']",Mahoniowa NŻ 
+Kolumny ,"['0346,0345']",Morenowa NŻ 
+Kolumny ,"['0330,0336']",Mozaikowa NŻ 
+Kolumny ,"['0329,0337']",Ogrodnicza NŻ 
+Kolumny ,"['0335,0331']",Platanowa NŻ 
+Kolumny ,"['2064,2063']",Rzgowska NŻ 
+Kolumny ,"['0326,0340']",Tomaszowska 
+Kolumny ,"['0343,0323']",Wrzecionowa NŻ 
+Kongresowa ,"['1645,1756']",Jutrzenki 
+Kongresowa ,['1755'],Pryncypalna 
+Kongresowa ,['1646'],Pryncypalna NŻ 
+Konspiracyjnego WP ,['1628'],Felińskiego 
+Konspiracyjnego WP ,['2255'],Śląska 
+Konstantynowska ,"['3475,3476']",CPN 
+Konstantynowska ,"['3461,3460']",Kocidłowska      
+Konstantynowska ,['0355'],Krakowska (ZOO) 
+Konstantynowska ,"['4730,4729']",Krańcowa NŻ 
+Konstantynowska ,['3485'],Kwasowa 
+Konstantynowska ,"['3462,3463']",Okręglik (Zgierz) 
+Konstantynowska ,['3234'],Sokołowska(Zgierz) 
+Konstantynowska ,"['1239,0352,0353']",Unii Lubelskiej (Fala) 
+Konstantynowska ,"['0357,0347']",Zaj. Muzealna Brus NŻ 
+Konstantynowska ,"['3059,3060']",cmentarz (Zgierz) 
+Konstantynowska ,"['0354,0351']",park im. Piłsudskiego  
+Konstantynowska ,['2080'],park im. Piłsudskiego NŻ 
+Konstantynowska ,"['3064,3464']",tor PKP (Zgierz) 
+Konstantynów Łódzki ,"['3545,3544']",1-go Maja 
+Konstantynów Łódzki ,"['3546,3547']",Kolejowa # 
+Konstantynów Łódzki ,['3556'],Kolejowa 28 
+Konstytucji 3 Maja ,['4735'],Nowe Miasto(Ozorków) 
+Konstytucji 3 Maja ,['4734'],Starzyńskiego(Ozorków) 
+Konstytucyjna ,"['0359,0361']",Małachowskiego 
+Konstytucyjna ,['1764'],Narutowicza 
+Kopanka ,"['3433,3434']",Kopanka 24a 
+Kopcińskiego ,"['0365,0368,0364']",Narutowicza 
+Kopcińskiego ,"['2048,1147']",Piłsudskiego 
+Kopcińskiego ,"['0363,0369,0370,0362']",Tuwima 
+Kopcińskiego ,"['1791,0366']",rondo Solidarności 
+Kopernika ,"['3313,3314']",Kolejowa (Stryków) 
+Kopernika ,"['3252,3251']",Słowackiego (Stryków) 
+Kopernika ,"['0373,1818,1819,0380']",Tobaco Park 
+Kopernika ,"['0375,0378,0374']",Łąkowa 
+Kopernika ,"['0376,4923,2135,0377']",Żeromskiego 
+Kosynierów Gdyńskich ,"['0384,0385']",Królewska 
+Kosynierów Gdyńskich ,['0387'],Trybunalska 
+Kosynierów Gdyńskich ,"['0386,0383']",Wczesna NŻ 
+Kosynierów Gdyńskich ,"['1845,1846']",Łazowskiego 
+Kotoniarska ,"['2037,2038']",Szybowa 
+Kościuszki ,"['0400,0390']",Mickiewicza 
+Kościuszki ,"['1702,1703']",Radwańska 
+Kościuszki ,"['0396,0392,0393,0397']",Struga 
+Kościuszki ,"['0398,0391']",Zamenhofa 
+Kościuszki ,"['0395,0394,1924']",Zielona 
+Krakowska ,"['0404,0406']",Biegunowa 
+Krakowska ,"['0417,1427']",Konstantynowska (ZOO) 
+Krakowska ,"['0403,0407']",Michałowicza NŻ 
+Krakowska ,"['0402,0408']",Minerska 
+Krakowska ,['0405'],Siewna 
+Kraszew ,['3578'],Kraszew 
+Kraszew ,['3579'],Ustronna 
+Krokusowa ,"['1894,1895']",Zrębowa NŻ 
+Krzemieniecka ,"['0350,4817']",Konstantynowska (ZOO) 
+Krzemieniecka ,"['0415,0412']",Kowieńska 
+Krzemieniecka ,"['0416,0411']",Retkińska 
+Książąt Polskich ,['0418'],Zakładowa 
+Kurczaki ,['0419'],Rzgowska 
+Kurczaki ,"['0420,0424']",Socjalna 
+Kurczaki ,"['0421,0423']",cm. Kurczaki 
+Kusocińskiego ,"['0431,0432']",Armii Krajowej 
+Kusocińskiego ,"['1961,1962']",Babickiego 
+Kusocińskiego ,"['0430,0433']",Popiełuszki 
+Kusocińskiego ,['1960'],Retkińska 
+Kutrzeby ,"['1229,1230']",Odolanowska 
+Legionów ,['4691'],Artyleryjska 
+Legionów ,['4406'],Cmentarna 
+Legionów ,"['4901,4906,0639']",Gdańska 
+Legionów ,['4902'],Kasprzaka 
+Legionów ,"['0642,0643,0630,0631']",Włókniarzy 
+Legionów ,"['2142,0637,0638,4907']",Zachodnia 
+Legionów ,['4690'],Żeligowskiego 
+Leszczowa ,['2247'],Dw. Łódź Pabianicka NŻ 
+Limanowskiego ,['1792'],Bałucki Rynek 
+Limanowskiego ,['0058'],Dw. Łódź Żabieniec 
+Limanowskiego ,['4908'],Grunwaldzka 
+Limanowskiego ,"['0440,0447']",Klonowa 
+Limanowskiego ,['2320'],Limanowskiego 
+Limanowskiego ,"['0448,0449,0438,0439']",Mokra 
+Limanowskiego ,"['0442,0445']",Piwna 
+Limanowskiego ,"['0450,0436']",Pułaskiego 
+Limanowskiego ,"['0441,0446,1686,1683']",Sierakowskiego 
+Limanowskiego ,"['0452,0434']",Woronicza 
+Limanowskiego ,"['1787,0443,0444']",Zachodnia 
+Limanowskiego ,['9013'],zajezdnia LIMANOWSKIEGO 
+Liściasta ,"['0462,0465']",Czereśniowa NŻ 
+Liściasta ,"['0461,0466']",Liściasta 72 NŻ 
+Liściasta ,"['0463,0464']",Zgierska 
+Lodowa ,"['0472,0476']",Andrzejewskiej 
+Lodowa ,"['0477,0471']",Dostawcza 
+Lodowa ,"['0469,0479']",Dąbrowskiego 
+Lodowa ,"['0478,0470']",Lodowa 91 
+Lodowa ,"['0480,0468']",Lodowa 97 
+Lodowa ,"['0467,0481']",Ordonówny 
+Lodowa ,"['2249,2133,2134']",Przybyszewskiego 
+Lodowa ,"['2312,0627']",Przybyszewskiego NŻ 
+Lodowa ,"['0473,0474']",cm. Zarzew 
+Lutomierska ,"['0486,0483']",Czarnkowska 
+Lutomierska ,"['3019,3018']",Ignacew (Konstantynów) NŻ 
+Lutomierska ,['4855'],Klasztor (Lutomiersk) NŻ 
+Lutomierska ,"['0482,0487']",Klonowa 
+Lutomierska ,"['3094,3089']",Konstantynówek (Konst.) NŻ 
+Lutomierska ,"['3274,3273']",Krzywa (Konstantynów) NŻ 
+Lutomierska ,"['3278,3277']",Przedmieście (Konst.) NŻ 
+Lutomierska ,"['3279,3280']",Sienkiewicza (Konst.) NŻ 
+Lutomierska ,"['2034,2035']",Włókniarzy 
+Lutomierska ,"['0485,0484']",Zachodnia 
+Lutomierska ,"['3276,3275']",Żabiczki (Konstantynów) NŻ 
+Maczka ,['2011'],Aeroklub NŻ 
+Maczka ,"['0500,1117']",Pienista NŻ 
+Malownicza ,"['0531,0534']",Gerberowa NŻ 
+Malownicza ,"['0532,0533']",Rataja NŻ 
+Malownicza ,"['1590,0530']",Taborowa NŻ 
+Maratońska ,['1654'],Bandurskiego 
+Maratońska ,"['1982,1981']",Gimnastyczna NŻ 
+Maratońska ,"['0554,0538']",Golfowa 
+Maratońska ,"['0539,0553']",Kolarska NŻ 
+Maratońska ,"['0537,0555']",Maratońska 172 NŻ 
+Maratońska ,"['0541,0548']",Maratońska 91 
+Maratońska ,"['0544,0545']",Obywatelska 
+Maratońska ,"['0547,0542']",Plocka 
+Maratońska ,"['0540,0552']",Popiełuszki 
+Maratońska ,"['0546,0543']",Retkińska 
+Maratońska ,"['0556,0536']",Sanitariuszek NŻ 
+Maratońska ,"['1607,1606']",Waltera-Janke NŻ 
+Maratońska ,"['1601,1602']",Wróblewskiego 
+Maratońska (wew.) ,"['2256,2257']",Plocka 
+Maratońska (wew.) ,"['0549,0550']",Popiełuszki 
+Marmurowa ,"['0565,0557']",Beskidzka NŻ 
+Marmurowa ,['0566'],Brzezińska 
+Marmurowa ,"['0558,0564']",Moskuliki # 
+Marmurowa ,"['0503,0504']",Opolska NŻ 
+Marysińska ,"['0568,2300']",Inflancka 
+Marysińska ,"['2181,2182']",Okopowa 
+Marysińska ,"['3574,3575']",Rokicińska 
+Matek Polskich ,['0727'],ICZMP przychodnia 
+Matek Polskich ,"['1844,1843']",ICZMP szpital 
+Matek Polskich ,"['0728,0725']",Przednia 
+Matek Polskich ,"['1579,1863']",Sczanieckiej 
+Małachowskiego ,['0535'],Niciarniana 
+Małczewska ,"['3184,3185']",Leśna (Brzeziny) NŻ 
+Michałówek ,['3457'],Michałówek 
+Michałówek ,['3458'],Michałówek 26 
+Mickiewicza ,['2137'],Kościuszki 
+Mickiewicza ,"['0496,0498']",Łąkowa NŻ 
+Mickiewicza ,"['0569,0570,0577']",Żeromskiego 
+Modrzewskiego ,['3245'],Biedronka(Brzeziny) 
+Moniuszki ,['3371'],Wiejska (Pabianice) 
+Musierowicza ,"['3038,3240']",Piątkowska (Zgierz) 
+Musierowicza ,"['3040,3041']",Łęczycka (Zgierz) 
+Narutowicza ,"['0581,0605,2339']",Kilińskiego 
+Narutowicza ,"['1923,0598,0588,0589,1922']",Kopcińskiego 
+Narutowicza ,"['0597,0590,0591,0596']",Matejki (kampus UŁ) 
+Narutowicza ,['2041'],P.O.W. 
+Narutowicza ,"['2120,2021']",Piotrkowska 
+Narutowicza ,"['0594,0593,0592,0595']",Radiostacja 
+Narutowicza ,"['0586,0587,0600']",Tramwajowa 
+Narutowicza ,"['0603,0602,0584,0585']",pl. Dąbrowskiego 
+Nawrot ,['0606'],Kilińskiego 
+Nawrot ,['1166'],Sienkiewicza 
+Nawrot ,['0607'],Targowa 
+Nawrot ,['0608'],Wysoka 
+Niciarniana ,['0613'],Czechosłowacka 
+Niciarniana ,"['0612,0614']",Dw. Łódź Niciarniana NŻ 
+Niciarniana ,"['0610,0617']",Niciarniana 45 
+Niciarniana ,"['0616,0611']",Piłsudskiego 
+Niciarniana ,['4851'],Przybyszewskiego NŻ 
+Niciarniana ,"['1633,1634']",przychodnia 
+Niesięcin ,"['3411,3418']",Aleksandrowska 
+Niesięcin ,['3412'],Niesięcin 
+Niesięcin ,"['3246,3247']",Szczecińska 
+Niższa ,"['2179,2180']",Śląska 
+Nowe Sady ,['0621'],Elektronowa 
+Nowe Sady ,['2326'],Elektronowa NŻ 
+Nowe Sady ,['2260'],Pustynna 
+Nowe Sady ,"['0626,0623']",ROD Olimpijka 
+Nowe Sady ,"['0625,0624']",Waltera-Janke 
+Nowe Sady ,"['0622,1611']",zajezdnia MPK 
+Nowe Sady ,['9012'],zajezdnia NOWE SADY 
+Nowogrodzka ,['2210'],Mazowiecka 
+Nowomiejska ,"['0628,0629']",Północna 
+Nowomiejska ,['4891'],Stary Rynek 
+Nowy Józefów ,"['1915,1916']",Golfowa 
+Obr. Westerplatte ,"['0644,0645']",Organizacji WiN 
+Obywatelska ,['2349'],Cieszkowskiego 
+Obywatelska ,['2348'],Cieszkowskiego NŻ 
+Obywatelska ,"['0647,0655']",Elektronowa 
+Obywatelska ,"['0653,0652,0650']",Jana Pawła II 
+Obywatelska ,"['0649,0654']",Nowe Sady 
+Obywatelska ,"['2122,0648']",Obywatelska 106 
+Obywatelska ,['0651'],Politechniki 
+Odnowiciela ,"['2113,2114']",Hetmańska 
+Ofiar Terroryzmu 11 Września ,"['1980,2115,2117,2116']",Dell 
+Ofiar Terroryzmu 11 Września ,['1967'],Tomaszowska 
+Ofiar Terroryzmu 11 Września ,"['1971,1970']",Transmisyjna 
+Ofiar Terroryzmu 11 Września ,"['1969,1968']",terminal Olechów 
+Ogrodowa ,"['3377,3378']",Brzezińska (Andrespol) NŻ 
+Ogrodowa ,"['2237,2238']",Gdańska 
+Ogrodowa ,['2235'],Karskiego 
+Ogrodowa ,"['3380,3379']",Magdalenki (Andrespol) NŻ 
+Ogrodowa ,"['0657,0656']",Nowomiejska 
+Ogrodowa ,"['2341,2342']",cm. Ogrodowa 
+Okulickiego ,"['2199,2200']",11 Listopada NŻ 
+Okulickiego ,"['2188,1880']",Zgierska NŻ 
+Okólna ,['1834'],Antyczna NŻ 
+Okólna ,"['1860,1859']",Okólna 244 
+Okólna ,"['1854,1853']",Secesyjna NŻ 
+Okólna ,['1564'],Serwituty 
+Okólna ,['1566'],Serwituty NŻ 
+Okólna ,"['1568,2174']",Łagiewnicka 
+Okólna ,"['1567,1563']",Łagiewniki 
+Olechowska ,"['0524,0529']",Olechowska 22 
+Olechowska ,"['0659,0662']",Olechowska 36 
+Olechowska ,"['1584,1585']",Olechowska 56 
+Olechowska ,"['0661,0660']",Przewozowa 
+Olechowska ,['0663'],Tomaszowska 
+Opolska ,['0664'],Zjazdowa NŻ 
+Organizacji WiN ,['2294'],Franciszkańska 
+Ossendowskiego ,"['1262,1263']",Dąbrowskiego 
+Ossendowskiego ,"['1261,1264']",Lodowa 
+Pabianicka ,"['0695,0696,0677,0676']",3 Maja 
+Pabianicka ,"['0670,0032,0701,0671']",Chocianowicka 
+Pabianicka ,"['0675,2323,0697,0698,0674']",Dubois 
+Pabianicka ,['1299'],Dw. Łódź Pabianicka NŻ 
+Pabianicka ,"['2017,2019,2018']",Długa 
+Pabianicka ,['2020'],Długa NŻ 
+Pabianicka ,"['0692,0691,0680,0681']",Jana Pawła II 
+Pabianicka ,"['1789,1788']",Mierzejowa 
+Pabianicka ,['3315'],Piłsudskiego (Aleks.) 
+Pabianicka ,['3317'],Południowa (Aleks.) 
+Pabianicka ,"['0693,0694,0679,0678']",Prądzyńskiego 
+Pabianicka ,"['0673,0672,0700,0699']",Rudzka 
+Pabianicka ,"['0685,2154,2155,0688']",Wólczańska 
+Pabianicka ,"['0689,0684,0682,0690,0683']",r. Lotników Lwowskich 
+Paderewskiego ,"['0717,0709,0718,0707']",Karpacka 
+Paderewskiego ,"['0714,0712,0713']",Rzgowska 
+Paderewskiego ,"['0716,0710,0711,0715']",Tuszyńska 
+Paderewskiego ,"['0705,0706,0719,0720']",Zaolziańska 
+Paderewskiego ,['0721'],r. Lotników Lwowskich 
+Palki ,"['1091,1115']",Smutna 
+Palki ,"['1092,1114']",Wojska Polskiego 
+Palki ,"['1090,1116']",Źródłowa 
+Paradna ,"['2325,0724,0729']",Matek Polskich 
+Paradna ,"['0730,0723']",Obszerna NŻ 
+Paradna ,"['1656,0726']",Rzgowska 
+Paradna ,"['0780,2344']",Ustronna 
+Partyzancka ,['4910'],Dąbrowa NŻ 
+Partyzancka ,['4911'],Widzewska(Pabianice) NŻ 
+Parzęczewska ,['3239'],Parzęczewska /Staffa(Zg.) 
+Pieniny ,['0733'],Giewont 
+Pienista ,"['1667,1670']",Komandorska 
+Pienista ,"['1679,1671']",Obywatelska 
+Pienista ,"['1855,1856']",Rusałki 
+Piotrkowska ,"['0768,2289,0770,0769']",Brzeźna 
+Piotrkowska ,"['2292,0773,0774,0766']",Czerwona 
+Piotrkowska ,"['2291,0767,2290,0772']",pl. Katedralny 
+Piotrkowska ,"['1985,0686,0776,1983']",pl. Niepodległości 
+Piotrkowska ,"['2287,1522,0401,2288']",Żwirki 
+Piłsudskiego ,"['2127,2128']",CH Tulipan 
+Piłsudskiego ,"['0762,0735,0736,0761']",Kilińskiego 
+Piłsudskiego ,"['0754,0744,0743,0753']",Konstytucyjna (Wi-Ma) 
+Piłsudskiego ,['3182'],Muzeum Regionalne(Brzeziny) 
+Piłsudskiego ,"['0752,0751,2213,0745,0746']",Niciarniana 
+Piłsudskiego ,"['0759,0738']",Przędzalniana 
+Piłsudskiego ,"['0756,0755,0742,0741']",Sarnia 
+Piłsudskiego ,"['0734,0763']",Sienkiewicza 
+Piłsudskiego ,"['0760,0737']",Targowa 
+Piłsudskiego ,"['0749,0748,0747,0750']",Widzew Stadion 
+Piłsudskiego ,"['3036,3037']",szkoła nr 1 (Zgierz) 
+Piłsudskiego ,"['0758,0740,0757,0739']",Śmigłego-Rydza 
+Pojezierska ,['1774'],Brukowa 
+Pojezierska ,"['1775,1776']",Elektrociepłownia EC3 
+Pojezierska ,"['0807,0804']",Grunwaldzka 
+Pojezierska ,"['0806,0805']",Sierakowskiego 
+Pojezierska ,"['0808,0803']",Włókniarzy 
+Pokładowa ,"['1872,1873']",Świętojańska NŻ 
+Politechniki ,"['0810,0820,0811,0821']",Obywatelska 
+Politechniki ,"['1521,0815,0816']",Radwańska (kampus PŁ) 
+Politechniki ,"['1697,0812,0819,1605']",Skrzywana 
+Politechniki ,"['2124,2123']",Targi Łódzkie 
+Politechniki ,"['0818,0814,0813,0817']",Wróblewskiego (kampus PŁ) 
+Politechniki ,"['0809,0823,0822']",r. Lotników Lwowskich 
+Pomorska ,"['0834,0846']",Arniki NŻ 
+Pomorska ,"['0160,0161']",CKD szpital 
+Pomorska ,['2051'],Dw. Łódź Stoki NŻ 
+Pomorska ,"['1300,1459']",Edwarda 
+Pomorska ,"['0841,0839']",Gryfa Pomorskiego NŻ 
+Pomorska ,"['0835,0845']",Henrykowska NŻ 
+Pomorska ,"['0827,0852']",Kamińskiego 
+Pomorska ,['0832'],Kasprowy Wierch 
+Pomorska ,"['0854,0825']",Kilińskiego 
+Pomorska ,"['1763,0360,1762,0847']",Konstytucyjna 
+Pomorska ,"['0831,0848']",Lumumby (kampus UŁ) 
+Pomorska ,"['0829,0850,1768,1769']",Matejki 
+Pomorska ,"['0836,0844']",Mileszki 
+Pomorska ,"['1608,0840']",Nowosolna 
+Pomorska ,"['0837,0843']",Pomorska 466 NŻ 
+Pomorska ,"['0853,0826']",Sterlinga 
+Pomorska ,"['1771,0830,0849,1770']",Tamka 
+Pomorska ,['4795'],Tamka NŻ 
+Pomorska ,"['1627,1626']",Wendy NŻ 
+Pomorska ,"['0855,0824']",pl. Wolności 
+Pomorska ,"['1767,1766,0851,0828']",rondo Solidarności 
+Pomorska ,"['0838,0842']",Śródziemnomorska NŻ 
+Popiełuszki ,['2183'],Maratońska 
+Popiełuszki ,"['0856,0857']",Popiełuszki 21 
+Popiełuszki ,['2004'],Pływacka NŻ 
+Popiełuszki ,['1610'],Wyszyńskiego 
+Popiełuszki ,['3056'],ks. Popieluszki  (Zgierz) 
+Popiełuszki ,"['3057,3543']",Łódzka (Zgierz) 
+Poronińska ,['0864'],Dw. Łódź Stoki NŻ 
+Proletariacka ,['2335'],Sowia NŻ 
+Proletariacka ,['2261'],Wróblewskiego NŻ 
+Pryncypalna ,"['0862,0863']",Bartoszewskiego NŻ 
+Pryncypalna ,"['0873,0874']",Kosynierów Gdyńskich NŻ 
+Pryncypalna ,"['0875,0872']",Mieszkalna 
+Pryncypalna ,"['0871,0876']",Mocna NŻ 
+Przestrzenna ,"['1637,1635']",Karowa NŻ 
+Przestrzenna ,['2073'],Rudzka 
+Przestrzenna ,['1669'],Sławna 
+Przestrzenna ,['1687'],Sławna NŻ 
+Przestrzenna ,"['1638,1639']",Tabelowa NŻ 
+Przybyszewskiego ,"['1848,1849']",Augustów 
+Przybyszewskiego ,"['0915,1938,0883,1939']",Brzozowa 
+Przybyszewskiego ,"['0899,0898']",Czajkowskiego 
+Przybyszewskiego ,"['0884,1937,1936,0914']",Kilińskiego 
+Przybyszewskiego ,"['0903,0896,0895,0904']",Lodowa 
+Przybyszewskiego ,['2250'],Mechaniczna NŻ 
+Przybyszewskiego ,"['0905,0892']",Niciarniana 
+Przybyszewskiego ,"['0908,0891,1830,0907']",Nurta-Kaszyńskiego 
+Przybyszewskiego ,"['0887,0888']",Tatrzańska 
+Przybyszewskiego ,"['0890,0909,0910,0889']",Zapadła 
+Przybyszewskiego ,"['0775,0916']",pl. Reymonta 
+Przybyszewskiego ,"['1828,2206,1829,0897,2207,0902']",rondo Sybiraków 
+Przybyszewskiego ,"['0913,1935,0885,1934']",Łęczycka 
+Przybyszewskiego ,"['0912,0911,0886']",Śmigłego-Rydza 
+Przędzalniana ,"['2284,2285']",Fabryczna 
+Przędzalniana ,"['4838,0877']",Milionowa 
+Przędzalniana ,"['1795,1874']",Nawrot 
+Przędzalniana ,"['4874,4875']",Przybyszewskiego 
+Przędzalniana ,['0878'],Tymienieckiego 
+Przędzalniana ,['0882'],Tymienieckiego NŻ 
+Prądzyńskiego ,"['1709,1954']",Darniowa NŻ 
+Prądzyńskiego ,['1953'],Pokładowa NŻ 
+Prądzyńskiego ,"['1708,1955']",Rozwojowa 
+Próchnika ,['0869'],Gdańska 
+Próchnika ,['0870'],Piotrkowska 
+Pustynna ,['2259'],Nowe Sady 
+Puszkina ,"['0917,0926']",Andrzejewskiej 
+Puszkina ,"['0920,0923,0922']",Chmielowskiego 
+Puszkina ,"['1700,1699']",Dostawcza 
+Puszkina ,"['1793,1794']",Dąbrowskiego 
+Puszkina ,"['0372,2097,2098,0921,1617']",rondo Inwalidów 
+Puszkina ,"['0924,0925,0918,0919']",rondo Sybiraków 
+Północna ,"['0861,0860']",Kamińskiego 
+Północna ,"['0858,0859']",Kilińskiego 
+Północna ,['2219'],Kilińskiego NŻ 
+Północna ,"['0865,0866']",Nowomiejska 
+Północna ,"['2221,2222']",Sterlinga 
+Radwańska ,['2298'],Inżynierska NŻ 
+Radwańska ,"['4267,0927']",Politechniki (kampus PŁ) 
+Radwańska ,"['0928,0929']",Wólczańska 
+Rataja ,"['0932,0933']",Gajcego NŻ 
+Rataja ,"['0931,0934']",Słoneczne Zacisze NŻ 
+Rembielińskiego ,['0944'],Inżynierska NŻ 
+Retkińska ,['1850'],Krzemieniecka 
+Retkińska ,"['1851,0948']",Kusocińskiego 
+Retkińska ,['1928'],Maratońska 
+Retkińska ,['1852'],Wileńska 
+Retkińska ,"['0949,0946']",Wyszyńskiego 
+Retkińska ,"['1952,0945']",Zagrodniki 
+Rewolucji 1905r. ,['0952'],Kamińskiego NŻ 
+Rewolucji 1905r. ,['0950'],Kilińskiego 
+Rewolucji 1905r. ,['0951'],Sterlinga 
+Rewolucji 1905r. ,['0947'],Wschodnia 
+Rodziny Poznańskich ,"['2170,2171,2172,2157,2158,2159,2160,2161,2162']",Dw. Łódź Fabryczna 
+Rojna ,"['0956,0959']",Kaczeńcowa 
+Rojna ,"['0955,0960']",Rydzowa 
+Rojna ,['0962'],Szczecińska 
+Rojna ,['0958'],Traktorowa 
+Rojna ,"['0954,0961']",Wici 
+Rojna ,"['1310,1311']",Wiernej Rzeki 
+Rokicińska ,['1911'],Andrzejki # 
+Rokicińska ,['1523'],Augustów 
+Rokicińska ,"['1534,1527']",Autostrada A1 NŻ 
+Rokicińska ,"['3576,3577']",Azaliowa 
+Rokicińska ,"['2333,2334']",Dunikowskiego NŻ 
+Rokicińska ,['1532'],Gajcego 
+Rokicińska ,"['2102,2101,2100,2099']",Gogola 
+Rokicińska ,"['1918,1714']",Hetmańska 
+Rokicińska ,"['1535,1526']",Józefiaka 
+Rokicińska ,['4866'],Kościelna # 
+Rokicińska ,"['2104,2103,1524,1537']",Książąt Polskich 
+Rokicińska ,"['0972,0968,0969,0971']",Lermontowa 
+Rokicińska ,"['0978,0979,0965,0964']",Maszynowa 
+Rokicińska ,"['3236,3235']",Młynarska 
+Rokicińska ,['3573'],Prosta 
+Rokicińska ,['1538'],Rokicińska 144 
+Rokicińska ,"['1536,1525']",Transmisyjna 
+Rokicińska ,"['1533,1528']",Walentynowicz NŻ 
+Rokicińska ,"['0966,0967,0973,0974']",rondo Inwalidów 
+Romanowska ,"['2197,2198']",Aleksandrowska NŻ 
+Romanowska ,"['2195,2196']",Romanowska 27 NŻ 
+Rudzka ,"['0987,0984']",Cienista NŻ 
+Rudzka ,"['0982,0990']",Farna 
+Rudzka ,['3560'],Katowicka (Rzgów) NŻ 
+Rudzka ,"['3333,3334']",Mała (Rzgów) NŻ 
+Rudzka ,"['0980,0992']",Municypalna 
+Rudzka ,"['3420,3324']",Nasienna (Rzgów) NŻ 
+Rudzka ,['1622'],Pabianicka 
+Rudzka ,['0993'],Pabianicka NŻ 
+Rudzka ,"['0988,0983']",Popioły 
+Rudzka ,"['0991,0981']",Przestrzenna 
+Rudzka ,['0986'],Skrajna # 
+Rudzka ,"['3335,3336']",Łódzka (Rzgów) NŻ 
+Rydzowa ,['1864'],Aleksandrowska 
+Rydzowa ,"['0994,0995']",Lniana 
+Rzgowska ,['1025'],Bankowa 
+Rzgowska ,['0989'],Bartoszewskiego NŻ 
+Rzgowska ,"['1006,1027,1026,1007']",Dachowa 
+Rzgowska ,"['1020,1017,1018,1019']",Dąbrowskiego 
+Rzgowska ,['1033'],ICZMP szpital 
+Rzgowska ,['0997'],ICZMP szpital NŻ 
+Rzgowska ,"['1003,1030']",Kurczaki 
+Rzgowska ,"['1022,1015,1021,1016']",Lecznicza 
+Rzgowska ,"['1014,1023,1013']",Paderewskiego 
+Rzgowska ,"['0998,1032']",Paradna 
+Rzgowska ,['1037'],Zagłoby # 
+Rzgowska ,['2324'],Zarzewska 
+Rzgowska ,"['1004,1005,1029,1028']",cm. Rzgowska 
+Rzgowska ,"['1031,0999']",św. Wojciecha 
+Rzgów ,['3421'],Zachodnia-Łódzka NŻ 
+Rąbieńska ,"['2175,2176']",Kwiatowa 
+Rąbieńska ,"['1547,1544']",Podjazdowa 
+Rąbieńska ,"['1836,1837']",Rąbieńska 76 
+Rąbieńska ,"['1549,1550']",Szczecińska 
+Rąbieńska ,"['1543,1548']",Szwadronowa 
+Rąbieńska ,"['1545,1546']",Traktorowa 
+Rąbieńska ,"['1569,1570']",Wojskowa 
+Sanitariuszek ,"['1571,1572']",Biwakowa NŻ 
+Sanitariuszek ,"['1040,1041']",Dw. Łódź Lublinek NŻ 
+Sanitariuszek ,['1672'],G.O.Ś. NŻ 
+Sanitariuszek ,"['1042,1039']",Łaskowice NŻ 
+Sienkiewicza ,"['2131,1047']",Narutowicza 
+Sienkiewicza ,"['1048,1045']",Piłsudskiego 
+Sienkiewicza ,"['1044,1049']",Pogotowie Ratunkowe 
+Sienkiewicza ,['1050'],Tymienieckiego (Ericsson)NŻ 
+Sienkiewicza ,['1046'],park Sienkiewicza 
+Siewna ,['1051'],Krakowska 
+Sikorskiego ,"['0502,0505']",Dw. Łódź Arturówek 
+Sikorskiego ,['1055'],Herlinga-Grudzińskiego 
+Sikorskiego ,"['1053,1054']",Nastrojowa 
+Sikorskiego ,['4912'],PZTT (Pabianice) NŻ 
+Sikorskiego ,['4915'],Partyzancka(Pabianice) NŻ 
+Sikorskiego ,['4914'],Warszawska(Pabianice) NŻ 
+Sikorskiego ,['1052'],Zgierska 
+Siostrzana ,"['0777,0778']",Bartoszewskiego 
+Siostrzana ,"['1964,1965']",Graniczna NŻ 
+Skalna ,"['1056,2329']",Juhasowa 
+Skalna ,['1057'],Kasprowy Wierch 
+Skrzydlata ,"['2268,2307']",Dojazdowa 
+Skrzydlata ,"['1062,1064']",Kasztelańska NŻ 
+Skrzydlata ,"['1958,1959']",Żucza NŻ 
+Skłodowskiej Curie ,['1693'],Pogonowskiego 
+Skłodowskiej Curie ,['1060'],Żeromskiego 
+Solec ,['1067'],Borowa 
+Solec ,['1066'],cm. Mania 
+Spadochroniarzy ,"['0036,0258']",Biegunowa 
+Sporna ,"['1070,1071']",Bracka 
+Sporna ,['1069'],Wojska Polskiego 
+Srebrzyńska ,"['1082,1074']",Jarzynowa 
+Srebrzyńska ,['4693'],Kasprzaka 
+Srebrzyńska ,"['1075,1081']",Unii Lubelskiej 
+Srebrzyńska ,"['1603,1073']",cm. Mania 
+Staffa ,"['3002,3053']",Os. 650-lecia (Zgierz) 
+Staffa ,"['3050,3051']",przychodnia (Zgierz) 
+Staffa ,"['3052,3241']",szkoła (Zgierz) 
+Stara Gadka ,['3483'],Skrajna # 
+Stara Gadka ,['3426'],Uczniowska NŻ 
+Stara Gadka ,['3427'],Zdrojowa NŻ 
+Stara Gadka ,"['3424,3504']",cmentarz 
+Starorudzka ,['0128'],Demokratyczna 
+Starorudzka ,['1680'],Pabianicka NŻ 
+Starowa Góra ,"['3422,3423']",Centralna 
+Starowa Góra ,['3484'],Zagłoby # 
+Stary Imielnik ,['3465'],Stary Imielnik 17 # 
+Stary Imielnik ,['3466'],Stary Imielnik 18 # 
+Stary Imielnik ,['3450'],Stary Imielnik 45 
+Stary Imielnik ,['3449'],Stary Imielnik 45A 
+Sterlinga ,"['1083,1084']",Pomorska 
+Sterlinga ,['0785'],pl. Dąbrowskiego 
+Sternfelda ,"['2275,2276']",Powszechna 
+Strażacka ,['1647'],Rzgowska 
+Strażacka ,['1757'],Tuszyńska 
+Struga ,"['1061,1086']",Gdańska 
+Struga ,['0248'],Piotrkowska 
+Struga ,['1087'],Pogonowskiego 
+Struga ,['1691'],Włókniarzy 
+Struga ,['1088'],Żeligowskiego 
+Strykowska ,"['1107,1095']",Herbowa 
+Strykowska ,"['1101,1653']",Imielnik Nowy 
+Strykowska ,"['1594,1110']",Inflancka 
+Strykowska ,"['1103,1099']",Jana i Cecylii NŻ 
+Strykowska ,"['1093,1109']",Kwarcowa NŻ 
+Strykowska ,"['1104,1098']",Okólna NŻ 
+Strykowska ,"['1108,1094']",Opolska NŻ 
+Strykowska ,"['1096,1106']",Rogowska NŻ 
+Strykowska ,"['1100,1102']",Strykowska 241 NŻ 
+Strykowska ,"['1097,1105']",Łodzianka NŻ 
+Stróża ,"['3428,3429']",Gajowa 
+Szaniawskiego ,['1839'],Dw. Łódź Andrzejów 
+Szaniawskiego ,['4867'],Przedszkolna 
+Szarych Szeregów ,['4920'],Łaska (Pabianice) 
+Szczecińska ,"['1120,1126']",Liściasta 
+Szczecińska ,"['4887,4888']",Podchorążych 
+Szczecińska ,['1509'],Rojna 
+Szczecińska ,"['1119,1127']",cm. Szczecińska 
+Szczecińska ,"['1128,1118']",św. Teresy 
+Szparagowa ,"['1129,1130']",Aleksandrowska 
+Słowiańska ,"['3488,3489']",Szaraka (Rąbień) 
+Słowiańska ,"['3492,3493']",Szczecińska (Anton.) # 
+Słowiańska ,"['3490,3491']",Wysoka (Rąbień) 
+Słowiańska ,"['3486,3487']",szkoła (Rąbień) 
+Służbowa ,"['0349,0381,0382']",Dw. Łódź Widzew 
+Służbowa ,"['0665,0666']",Jurczyńskiego NŻ 
+Taborowa ,['4864'],Dw. Łódź Andrzejów 
+Taborowa ,['4865'],Skrzatów 
+Tamka ,['2270'],Styrska NŻ 
+Tatrzańska ,['1618'],Broniewskiego 
+Tatrzańska ,"['1161,1165']",Dąbrowskiego 
+Tatrzańska ,"['1162,1164']",Grota-Roweckiego 
+Tatrzańska ,['0104'],Rydla 
+Techniczna ,['0255'],Puszkina 
+Telefoniczna ,"['2239,1614']",Bystrzycka NŻ 
+Telefoniczna ,"['1170,1182,1169,1181']",Chmurna 
+Telefoniczna ,"['1168,1183']",Czorsztyńska 
+Telefoniczna ,"['1174,1177,1178,1173']",Pieniny 
+Telefoniczna ,"['1977,1976']",Telefoniczna 27 NŻ 
+Telefoniczna ,"['1179,1172,1171,1180']",Weselna 
+Tomaszowska ,"['1196,1205']",Bławatna 
+Tomaszowska ,"['1202,1199']",Jędrzejowska 
+Tomaszowska ,"['1201,1200']",Małego Rycerza 
+Tomaszowska ,"['2347,1198,1203']",Ofiar Terroryzmu 11 Września 
+Tomaszowska ,"['1204,1197']",Olechowska 
+Traktorowa ,"['1681,1682']",Duńska 
+Traktorowa ,"['1208,1213']",Grabieniec 
+Traktorowa ,"['1212,1210']",Ludowa 
+Traktorowa ,"['1214,1207']",Nektarowa NŻ 
+Traktorowa ,"['0781,0779']",Rojna 
+Traktorowa ,"['1215,1206']",Rąbieńska 
+Traktorowa ,['1209'],Sierpowa 
+Traktorowa ,['1211'],św. Teresy 
+Tramwajowa ,['2203'],Narutowicza 
+Transmisyjna ,"['1744,1551']",Kosodrzewiny NŻ 
+Transmisyjna ,['1972'],Ofiar Terroryzmu 11 Września 
+Trybunalska ,['1217'],Kosynierów Gdyńskich 
+Trybunalska ,"['1216,1218']",Kwietniowa NŻ 
+Tuszyńska ,"['3384,3368']",CH PTAK 
+Tuszyńska ,"['3338,3339']",Kamienna (Rzgów) NŻ 
+Tuszyńska ,"['3396,3395']",Kolumny 
+Tuszyńska ,['3367'],Rzemieślnicza(Rzgów) 
+Tuszyńska ,"['3562,3561']",Wąwozowa (Rzgów) NŻ 
+Tuwima ,"['3049,3048']",Boya-Żeleńskiego (Zgierz) 
+Tuwima ,['1227'],Kilińskiego (EC1 Centr. Nauki) 
+Tuwima ,['0880'],Przędzalniana 
+Tuwima ,"['1224,1219']",Rodz. Kindermannów NŻ 
+Tuwima ,['4925'],Rodziny Scheiblerów 
+Tuwima ,['3046'],Sezam (Zgierz) 
+Tuwima ,['1228'],Sienkiewicza 
+Tuwima ,['1226'],Targowa (Planetarium) 
+Tuwima ,"['1225,2286']",Wysoka 
+Tymienieckiego ,"['1233,1231']",Kilińskiego 
+Tymienieckiego ,"['1232,2346']",Przędzalniana 
+Tymienieckiego ,['1613'],Sienkiewicza NŻ 
+Tymienieckiego ,"['1978,1979']",ŁSSE 
+Unii Lubelskiej ,['1234'],Konstantynowska (Fala) 
+Unii Lubelskiej ,"['1236,1237']",Praussa 
+Unii Lubelskiej ,"['1235,1238']",Srebrzyńska 
+Uniwersytecka ,"['2303,2304']",Narutowicza 
+Uniwersytecka ,"['2062,1241']",Rewolucji 1905 r. 
+Uniwersytecka ,"['1790,1240']",rondo Solidarności 
+Ustronna ,['2006'],Demokratyczna NŻ 
+Ustronna ,"['0667,0668']",Zagadkowa NŻ 
+Waltera Janke ,"['1291,1292']",Maratońska NŻ 
+Waltera Janke ,"['0800,0801']",Wyszyńskiego 
+Warszawska ,['3161'],3 Maja (Pabianice) 
+Warszawska ,"['1255,1249']",Centralna 
+Warszawska ,"['1244,1258,1931,1932']",Deczyńskiego 
+Warszawska ,"['1242,1259']",Irysowa 
+Warszawska ,['3160'],Konstantynowska (Pabianice) 
+Warszawska ,"['3254,3253']",Legionów (Stryków) 
+Warszawska ,"['3162,3163']",Poprzeczna (Pabianice) 
+Warszawska ,['4850'],Sikorskiego (Pabianice) 
+Warszawska ,['1257'],Skrzydlata 
+Warszawska ,"['1729,1728']",Słowicza 
+Warszawska ,['1251'],Wycieczkowa 
+Wersalska ,"['1268,1271']",Szczecińska 
+Wersalska ,"['1269,1270']",Wersalska 47 
+Widzewska ,"['1759,1760']",Wiejska 
+Wielkopolska ,"['1286,1287']",Pułaskiego 
+Wierzbińska ,['3305'],11 Listopada (Aleks.) 
+Wieńcowa ,"['1575,1573']",Feliksińska NŻ 
+Wieńcowa ,"['1540,1574']",Przylesie NŻ 
+Wieńcowa ,"['1542,1541']",Rokicińska NŻ 
+Wieńcowa ,"['2305,2306']",Wieśniacza NŻ 
+Wigury ,['1290'],Kilińskiego NŻ 
+Wiączyń Dolny ,"['3469,3470']",Wiączyń Dolny 18 
+Wiączyń Dolny ,"['3467,3468']",Wiączyń Dolny 4 
+Wiączyń Dolny ,"['3474,3473']",Wiączyń Dolny 42 
+Wiączyń Dolny ,"['3471,3472']",Wiączyń Dolny Gimnazjum 
+Wiączyńska ,"['1281,1282']",Autostrada A1 NŻ 
+Wiączyńska ,"['1278,1591']",Nowosolna 
+Wiączyńska ,"['1284,1279']",Wiączyńska 16 NŻ 
+Wiączyńska ,"['1283,1280']",Wiączyńska 32 NŻ 
+Wiśniowa Góra ,"['3387,3394']",Akacjowa 
+Wiśniowa Góra ,"['3392,3393']",Jednostka Wojskowa 
+Wiśniowa Góra ,"['3390,3391']",Piekarnicza 
+Wiśniowa Góra ,"['3389,3388']",Szkoła 
+Więckowskiego ,['1288'],Gdańska 
+Więckowskiego ,['1609'],Pogonowskiego 
+Więckowskiego ,['1289'],Żeligowskiego 
+Wojska Polskiego ,"['3201,3200']",Bratoszewskiego (Aleks.) 
+Wojska Polskiego ,"['1348,1329,1322']",Franciszkańska 
+Wojska Polskiego ,"['4709,4708']",Głowackiego NŻ 
+Wojska Polskiego ,['3204'],Krótka (Aleksandrów) 
+Wojska Polskiego ,"['1346,1331']",Marynarska 
+Wojska Polskiego ,"['1337,1341']",Palki 
+Wojska Polskiego ,"['3203,3202']",Południowa (Aleks.) 
+Wojska Polskiego ,"['1343,1335']",Sporna 
+Wojska Polskiego ,['4202'],pl. Kościelny 
+Wojska Polskiego ,"['1339,1338']",Łomnicka 
+Woronicza ,"['1349,1350']",Dw. Łódź Żabieniec 
+Wróblewskiego ,"['1804,1808']",Politechniki (kampus PŁ) 
+Wycieczkowa ,"['1360,1363']",Nowaka Jeziorańskiego NŻ 
+Wycieczkowa ,"['1358,1365']",Rogowska NŻ 
+Wycieczkowa ,"['1355,1368']",Strykowska 
+Wycieczkowa ,"['1366,1357']",Warszawska 
+Wycieczkowa ,"['1364,1359']",Wiewiórcza NŻ 
+Wycieczkowa ,"['1956,1957']",Woskowa 
+Wycieczkowa ,['1250'],Wycieczkowa 
+Wycieczkowa ,"['1367,1356']",Wypoczynkowa 
+Wycieczkowa ,"['1362,1361']",sanatorium NŻ 
+Wydawnicza ,"['2327,2328']",Rodziny Grohmanów NŻ 
+Wyszyńskiego ,"['1373,2086,2087,1386']",Armii Krajowej 
+Wyszyńskiego ,"['2088,2089,1374,1384']",Retkińska 
+Wyszyńskiego ,['4798'],Rzeczna(Ozorków) 
+Wyszyńskiego ,"['1381,1380,1379,1378']",Waltera-Janke 
+Wyszyńskiego ,"['1372,1387']",blok 270 
+Wyszyńskiego ,"['1383,1382,1377,1376']",os. Piaski 
+Włókniarzy ,"['1317,1304']",Długosza 
+Włókniarzy ,"['1694,1297,1324']",Karolewska (Dw. Ł. Kaliska) 
+Włókniarzy ,"['1320,1302,1319']",Legionów 
+Włókniarzy ,"['1312,1309']",Liściasta 
+Włókniarzy ,"['1315,1306']",Lutomierska 
+Włókniarzy ,"['2092,1323,2091,2093']",Mickiewicza (Dw. Ł. Kaliska) 
+Włókniarzy ,"['1318,1303']",Srebrzyńska 
+Włókniarzy ,"['1316,1305']",Żubardzka 
+Włókniarzy ,"['1308,1313']",św. Teresy 
+Węglowa ,"['2205,2204']",Tramwajowa 
+Wólczańska ,"['1072,1068']",Czerwona 
+Wólczańska ,['2003'],Radwańska 
+Wólczańska ,"['1650,2002']",Skargi 
+Wólczańska ,"['2001,2000']",Skorupki 
+Wólczańska ,"['1351,1999']",Skrzywana 
+Zachodnia ,"['1391,1400,1401,1390']",Legionów 
+Zachodnia ,"['1397,1396,1395,1394']",Limanowskiego 
+Zachodnia ,"['1398,1399,1392,1393']",Lutomierska 
+Zachodnia ,"['1997,1998,2316,2317']",Manufaktura 
+Zachodnia ,['1402'],Próchnika 
+Zachodnia ,['1389'],Więckowskiego 
+Zachodnia ,['1403'],Zielona 
+Zagajnikowa ,['1405'],Inflancka 
+Zagajnikowa ,"['0867,0868']",Okopowa 
+Zagajnikowa ,['2267'],Zagajnikowa 
+Zakładowa ,"['2153,2152']",Cynarskiego 
+Zakładowa ,"['1416,1410']",Dorabialskiej 
+Zakładowa ,"['1412,1414']",Dyspozytorska 
+Zakładowa ,"['4720,1408,1418']",Hetmańska 
+Zakładowa ,"['4792,4793']",Józefiaka NŻ 
+Zakładowa ,['1421'],Książąt Polskich 
+Zakładowa ,"['1419,1407']",Odnowiciela 
+Zakładowa ,['1406'],Piasta Kołodzieja 
+Zakładowa ,['1420'],Piasta Kołodzieja NŻ 
+Zakładowa ,"['1417,1409']",Transmisyjna 
+Zakładowa ,"['1415,1411']",Tranzytowa 
+Zamenhofa ,['1422'],Piotrkowska 
+Zamkowa ,['3167'],Kilińskiego (Pabianice) 
+Zamkowa ,['3173'],Konopnickiej(Pabianice) 
+Zamkowa ,['3170'],Lutomierska (Pabianice) 
+Zamkowa ,['3169'],Narutowicza (Pabianice) 
+Zamkowa ,['3166'],Okulickiego (Pabianice) 
+Zamkowa ,['3172'],Staszewskiego (Pab.) 
+Zamkowa ,['3168'],Traugutta (Pabianice) 
+Zamkowa ,['3171'],Wyspiańskiego (Pabianice) 
+Zamkowa ,['3164'],Zamek (Pabianice) 
+Zamkowa ,['3165'],kościół św. Mateusza (Pab.) 
+Zamojska ,['0493'],Prądzyńskiego 
+Zawiszy Czarnego ,['2293'],Franciszkańska 
+Zbocze ,['0200'],Giewont 
+Zbocze ,['1722'],Potokowa 
+Zenitowa ,['2258'],św. Franciszka 
+Zgierska ,"['1464,1433']",Adwokacka 
+Zgierska ,"['1429,1466']",Bałucki Rynek 
+Zgierska ,"['1437,1460']",Biegańskiego 
+Zgierska ,"['1444,1451']",Brzoskwiniowa 
+Zgierska ,"['4801,4800']",Brzoskwiniowa # 
+Zgierska ,"['1430,1701,1465,1432']",Dolna 
+Zgierska ,"['1449,1445']",Helenówek 
+Zgierska ,"['1462,1436,1435,2121']",Julianowska 
+Zgierska ,"['1442,1453']",Pasieczna 
+Zgierska ,"['1456,1439']",Przedwiośnie 
+Zgierska ,"['1441,1454,1440,1455']",Sikorskiego 
+Zgierska ,"['1434,1463']",Sędziowska 
+Zgierska ,"['1632,1587,2139,2138']",cm. Radogoszcz 
+Zgierska ,"['1428,1467']",pl. Kościelny 
+Zgierska ,"['1457,1438']",pl. Pamięci Narodowej 
+Zgierska ,"['1443,1452']",Świtezianki 
+Zgierz ,"['3103,3104']",Adelmówek 
+Zgierz ,"['3101,3102']",Chełmy 
+Zgierz ,"['3115,3116']",Proboszczewice I 
+Zgierz ,"['3120,3121']",Proboszczewice II 
+Zielona ,"['1485,1468']",1 Maja 
+Zielona ,"['1473,1479,1474']",Gdańska 
+Zielona ,"['1698,1477,2340']",Kościuszki 
+Zielona ,"['1475,1476']",Piotrkowska 
+Zielona ,"['1481,1471']",pl. Barlickiego 
+Zielona ,"['4673,4457,1469,1483']",pl. Hallera 
+Zielona ,['4546'],Żeromskiego 
+Zjazdowa ,"['1491,1486']",Beskidzka NŻ 
+Zjazdowa ,"['1861,1862']",Budy 
+Zjazdowa ,"['1490,1488']",Moskuliki NŻ 
+Zjazdowa ,['1487'],Opolska NŻ 
+Złotno ,['1649'],Huta Jagodnica 
+Złotno ,"['1507,1495']",Huta Jagodnica # 
+Złotno ,"['1724,1725']",Kwiatowa 
+Złotno ,"['1498,1504']",Legnicka 
+Złotno ,"['1502,1500']",Podchorążych 
+Złotno ,['1501'],Siewna 
+Złotno ,"['1497,1505']",Stare Złotno 
+Złotno ,"['1499,1503']",Zaporowa 
+Złotno ,"['1496,1506']",Złotno 141 
+Łagiewnicka ,"['0488,0517']",Dolna 
+Łagiewnicka ,"['1752,1751']",Dw. Łódź Arturówek 
+Łagiewnicka ,"['1556,1558']",Jaskółcza 
+Łagiewnicka ,"['0490,0515,0516,0489']",Kowalska 
+Łagiewnicka ,['1559'],Kuropatwia 
+Łagiewnicka ,['1555'],Kuropatwia NŻ 
+Łagiewnicka ,"['0511,0497']",Litewska 
+Łagiewnicka ,"['0499,0509']",Morelowa 
+Łagiewnicka ,"['0491,1825,1824,0514']",Murarska 
+Łagiewnicka ,"['1552,1562']",Przepiórcza NŻ 
+Łagiewnicka ,"['1553,1561']",Pszczelna NŻ 
+Łagiewnicka ,"['0507,0501']",Sowińskiego 
+Łagiewnicka ,"['1749,0512,0492,1750']",r. Powstańców 1863r. 
+Łagiewnicka ,['1554'],Łagiewnicka 290 NŻ 
+Łagiewnicka ,['1560'],Łagiewnicka 292 NŻ 
+Łagiewnicka ,['1557'],Łagiewnicka 311 
+Łaska  ,['3187'],Dworzec PKP(Pabianice) 
+Łaska  ,"['3174,3175']",Mielczarskiego (Pab.) 
+Łaska  ,['3177'],Tkacka (Pabianice) 
+Łaska  ,['3176'],Węglowa (Pabianice) 
+Łaskowice ,"['0518,0519']",Nad Dobrzynką NŻ 
+Łazowskiego ,['2343'],Kosynierów Gdyńskich 
+Łupkowa ,"['0520,0521']",Kobaltowa 
+Łąkowa ,['1689'],Karolewska 
+Łąkowa ,['1692'],Struga 
+Łęczycka ,"['4779,3210']",Łaźnia (Zgierz) 
+Łódzka ,['3496'],Bema (Rzgów) NŻ 
+Łódzka ,['3568'],Cegielniana (Konstantynów) NŻ 
+Łódzka ,['3591'],Ciesielskiego 
+Łódzka ,['3287'],Gdańska (Konstantynów) NŻ 
+Łódzka ,['3584'],Główna 
+Łódzka ,['3585'],Górna 
+Łódzka ,['3497'],Kopernika (Rzgów) 
+Łódzka ,"['3286,3285']",Krótka (Konstantynów) 
+Łódzka ,"['3146,3147']",Ksawerów 
+Łódzka ,['3581'],Ludowa 
+Łódzka ,"['3583,3582']",Malinowa 
+Łódzka ,"['3144,3145']",Mały Skręt # 
+Łódzka ,"['3580,3590']",Nowa 
+Łódzka ,"['4868,4869']",Smulska (Konstantynów) # 
+Łódzka ,['3292'],Srebrna (Konstantynów) NŻ 
+Łódzka ,['3572'],Sucharskiego (Rzgów) NŻ 
+Łódzka ,"['3016,3017']",Szkoła (Konstantynów) NŻ 
+Łódzka ,"['3151,3150']",Teklin 
+Łódzka ,['3571'],Ustronna (Rzgów) NŻ 
+Łódzka ,"['3149,3148']",Widzew -Żdżary 
+Łódzka ,"['3205,3206']",Śniechowskiego (Zgierz) 
+Śląska ,['2254'],Dw. Łódź Chojny 
+Śląska ,"['1131,1136']",Konspiracyjnego WP 
+Śląska ,"['1133,1134']",Kowalszczyzna 
+Śląska ,"['0935,0936']",Lodowa 
+Śląska ,['2252'],Niższa NŻ 
+Śląska ,"['1132,1135']",Szymańskiego 
+Śmigłego Rydza ,['4284'],Broniewskiego 
+Śmigłego Rydza ,"['2053,1137,1157']",Dąbrowskiego 
+Śmigłego Rydza ,['1149'],Fabryczna 
+Śmigłego Rydza ,"['1139,4270,1155,4271']",Grota-Roweckiego 
+Śmigłego Rydza ,"['1152,1142,1143,1151']",Milionowa 
+Śmigłego Rydza ,"['0371,1148']",Piłsudskiego 
+Śmigłego Rydza ,"['2052,4543,1153,1141']",Przybyszewskiego 
+Śmigłego Rydza ,"['4836,4835']",Tymienieckiego 
+Śmigłego Rydza ,['1144'],Zbiorcza 
+Śniechowskiego ,['3062'],Łódzka (Zgierz) 
+Śniechowskiego ,['3058'],Śniechowskiego (Zgierz) 
+Śnieżna ,"['1731,1732']",Brzezińska NŻ 
+Śnieżna ,"['1735,1736']",Stokowska NŻ 
+Św. Franciszka ,"['0181,0182']",Zenitowa 
+Św. Franciszka ,"['1423,1424']",Zwrotnikowa 
+Św. Teresy ,['1193'],Brukowa 
+Św. Teresy ,"['1187,1194']",Kaczeńcowa 
+Św. Teresy ,['1195'],Szczecińska 
+Św. Teresy ,['1188'],Traktorowa 
+Św. Teresy ,['1189'],Włókniarzy 
+Św. Teresy ,"['1913,1912']",św. Teresy 109 
+Św. Teresy ,['1192'],św. Teresy 91 
+Św. Wojciecha ,"['2277,2278']",Mieszczańska 
+Św. Wojciecha ,"['2318,2319']",Rzgowska 
+Świtezianki ,"['2201,2185']",Nastrojowa 
+Świtezianki ,"['1784,1785']",Sikorskiego 
+Świtezianki ,"['1160,1777']",Syrenki 
+Świtezianki ,"['2187,2192']",Zgierska 
+Źródłowa ,"['1510,2266']",Wojska Polskiego NŻ 
+Żeligowskiego ,['1512'],6 Sierpnia 
+Żeligowskiego ,"['2279,1713']",pl. Hallera 
+Żeromskiego ,"['1815,1518,1514,1515']",Kopernika 
+Żeromskiego ,"['1519,1458,2141,1513']",Mickiewicza 
+Żeromskiego ,['1520'],Radwańska (kampus PŁ) 
+Żeromskiego ,['1705'],Więckowskiego (LO nr 1) 
+Żeromskiego ,"['1516,1517']",pl. Barlickiego 
+Chojny Kurczaki ,"['1000,1001']",Chojny Kurczaki 
+Kochanówka ,"['0002,0023']",Kochanówka 
+Piątkowska /park (Zgierz) ,"['3054,3055']",Piątkowska /park (Zgierz) 
+Radogoszcz Wschód ,"['1778,1779,1780,1781,1782']",Radogoszcz Wschód 
+Retkinia ,"['1369,1370,2082,2083,2084,2085']",Retkinia 
+Stoki ,"['1176,1175']",Stoki 
+ks. Popieluszki  (Zgierz) ,['3267'],ks. Popieluszki  (Zgierz) 
+Łęczycka (Zgierz) ,"['4755,4756']",Łęczycka (Zgierz) 
+Śniechowskiego (Zgierz) ,['3061'],Śniechowskiego (Zgierz) 
+Przystanki nie przypisane do ulicy ,['9001'], ET-1 
+Przystanki nie przypisane do ulicy ,['9003'], ET-2 
+Przystanki nie przypisane do ulicy ,['3108'],3 Maja (Zgierz) 
+Przystanki nie przypisane do ulicy ,"['3512,3511']",Adamów NŻ 
+Przystanki nie przypisane do ulicy ,"['3132,3133']",Aleksandria 
+Przystanki nie przypisane do ulicy ,['3233'],Andrespol 
+Przystanki nie przypisane do ulicy ,['3237'],Andrespol O.S.P. 
+Przystanki nie przypisane do ulicy ,['1063'],Arturówek 
+Przystanki nie przypisane do ulicy ,['2336'],BSH Fabryka 
+Przystanki nie przypisane do ulicy ,['2246'],BSH Magazyn 
+Przystanki nie przypisane do ulicy ,['3381'],Bedoń Kościelna/Kościół 
+Przystanki nie przypisane do ulicy ,['0148'],Bionanopark 
+Przystanki nie przypisane do ulicy ,"['3519,3520']",Boginia chłodnia 
+Przystanki nie przypisane do ulicy ,"['3218,3217']",Boginia działki 
+Przystanki nie przypisane do ulicy ,"['3215,3216']",Borchówka  7 
+Przystanki nie przypisane do ulicy ,"['3214,3213']",Borchówka  Las 
+Przystanki nie przypisane do ulicy ,"['3249,3248']",Borchówka 21 
+Przystanki nie przypisane do ulicy ,"['3264,3265']",Borchówka 39 
+Przystanki nie przypisane do ulicy ,"['3084,3078']",Byszewy 
+Przystanki nie przypisane do ulicy ,"['2331,2338,2330']",CH Tulipan 
+Przystanki nie przypisane do ulicy ,"['2215,2216']",CKD parking 
+Przystanki nie przypisane do ulicy ,['0975'],CKD stomatologia 
+Przystanki nie przypisane do ulicy ,"['2218,2217']",CKD szpital 
+Przystanki nie przypisane do ulicy ,['3481'],CT Ptak Outlet 
+Przystanki nie przypisane do ulicy ,['4921'],Cegielniana(Ksawerów) 
+Przystanki nie przypisane do ulicy ,"['2015,2014']",Chocianowice IKEA 
+Przystanki nie przypisane do ulicy ,['1036'],Chojny Hydro 
+Przystanki nie przypisane do ulicy ,"['1001,1000']",Chojny Kurczaki 
+Przystanki nie przypisane do ulicy ,"['3138,3139']",Cmentarz (Ozorków) 
+Przystanki nie przypisane do ulicy ,"['3261,3257']",Corning (Smolice) 
+Przystanki nie przypisane do ulicy ,['0180'],Czahary 
+Przystanki nie przypisane do ulicy ,"['3072,3073']",Dobra 
+Przystanki nie przypisane do ulicy ,"['3255,3256']",Dobra Nowiny # 
+Przystanki nie przypisane do ulicy ,['1648'],Doły Smutna 
+Przystanki nie przypisane do ulicy ,['1838'],Dw. Łódź Andrzejów 
+Przystanki nie przypisane do ulicy ,"['1009,0268']",Dw. Łódź Chojny 
+Przystanki nie przypisane do ulicy ,"['0115,1621']",Dw. Łódź Dąbrowa 
+Przystanki nie przypisane do ulicy ,"['2165,2163,2169,2168,2167,2166']",Dw. Łódź Fabryczna 
+Przystanki nie przypisane do ulicy ,"['1712,1726,1711']",Dw. Łódź Kaliska 
+Przystanki nie przypisane do ulicy ,"['0358,0356']",Dw. Łódź Widzew 
+Przystanki nie przypisane do ulicy ,['1511'],Dw. Łódź Żabieniec 
+Przystanki nie przypisane do ulicy ,"['3126,3127']",Emilia (Kania Góra) 
+Przystanki nie przypisane do ulicy ,"['3125,3124']",Emilia (Rosanów) 
+Przystanki nie przypisane do ulicy ,['1576'],Feliksin 
+Przystanki nie przypisane do ulicy ,['3112'],Gałczyńskiego (Zgierz) 
+Przystanki nie przypisane do ulicy ,['4924'],Gdańska 
+Przystanki nie przypisane do ulicy ,"['3328,3327']",Grabina 50 
+Przystanki nie przypisane do ulicy ,"['0061,0062']",Grabińska 40 # 
+Przystanki nie przypisane do ulicy ,"['3404,3243']",Głowackiego(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['9203'],Helenówek-pętla 
+Przystanki nie przypisane do ulicy ,['3498'],Innowacyjna 
+Przystanki nie przypisane do ulicy ,"['1035,1644']",Instytut CZMP 
+Przystanki nie przypisane do ulicy ,"['1741,1742,1743,1740,1738,1739']",Janów 
+Przystanki nie przypisane do ulicy ,"['3086,3076']",Janów wieś 
+Przystanki nie przypisane do ulicy ,['3595'],Janówka 
+Przystanki nie przypisane do ulicy ,"['3513,3514']",Jordanów I NŻ 
+Przystanki nie przypisane do ulicy ,"['3515,3516']",Jordanów II NŻ 
+Przystanki nie przypisane do ulicy ,"['3518,3517']",Jordanów III NŻ 
+Przystanki nie przypisane do ulicy ,['3594'],Justynów PKP 
+Przystanki nie przypisane do ulicy ,"['3435,3436']",Kalonka 
+Przystanki nie przypisane do ulicy ,"['3220,3219']",Kalonka (osiedle) 
+Przystanki nie przypisane do ulicy ,"['3480,3479']",Kalonka II 
+Przystanki nie przypisane do ulicy ,['3331'],Kalonka/Centrum Ojca Pio 
+Przystanki nie przypisane do ulicy ,['2301'],Karolew 
+Przystanki nie przypisane do ulicy ,"['4859,4857']",Kilińskiego 50 (Kazimierz) NŻ 
+Przystanki nie przypisane do ulicy ,"['4856,4860']",Kilińskiego 66 (Kazimierz) NŻ 
+Przystanki nie przypisane do ulicy ,"['0023,0002']",Kochanówka 
+Przystanki nie przypisane do ulicy ,['3448'],Kolumny 
+Przystanki nie przypisane do ulicy ,['0422'],Komorniki 
+Przystanki nie przypisane do ulicy ,['4733'],Konstytucji 3 Maja 37 (Ozorków) 
+Przystanki nie przypisane do ulicy ,['4076'],Koziny 
+Przystanki nie przypisane do ulicy ,['3557'],Kościelna 
+Przystanki nie przypisane do ulicy ,"['3401,3402']",Kościuszki(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['3578'],Kraszew 
+Przystanki nie przypisane do ulicy ,"['3106,3105']",Kurak (Zgierz) 
+Przystanki nie przypisane do ulicy ,['2320'],Limanowskiego 
+Przystanki nie przypisane do ulicy ,"['3445,3444']",Lipiny 
+Przystanki nie przypisane do ulicy ,['3446'],Lipiny - pętla 
+Przystanki nie przypisane do ulicy ,"['3443,3442']",Lipiny 67 
+Przystanki nie przypisane do ulicy ,['2070'],Lotnisko 
+Przystanki nie przypisane do ulicy ,"['3122,3123']",Lućmierz 
+Przystanki nie przypisane do ulicy ,"['3011,3012']",Majątek Byszewy 
+Przystanki nie przypisane do ulicy ,"['1927,1256']",Marysin Skrzydlata 
+Przystanki nie przypisane do ulicy ,['0567'],Marysin Stadion 
+Przystanki nie przypisane do ulicy ,['2223'],Marysin Tęczowa 
+Przystanki nie przypisane do ulicy ,['4482'],Marysin Warszawska 
+Przystanki nie przypisane do ulicy ,"['3507,3508']",Małczew I NŻ 
+Przystanki nie przypisane do ulicy ,"['3510,3509']",Małczew II NŻ 
+Przystanki nie przypisane do ulicy ,['3183'],Małczewska 28 (Brzeziny) NŻ 
+Przystanki nie przypisane do ulicy ,['3179'],Małczewska 37 (Brzeziny) NŻ 
+Przystanki nie przypisane do ulicy ,['3459'],Michałówek / Dobra 
+Przystanki nie przypisane do ulicy ,"['3270,3269']",Mirosławice I NŻ 
+Przystanki nie przypisane do ulicy ,"['3090,3093']",Mirosławice II NŻ 
+Przystanki nie przypisane do ulicy ,['1565'],Modrzew 
+Przystanki nie przypisane do ulicy ,['3111'],Musierowicza (Zgierz) 
+Przystanki nie przypisane do ulicy ,"['2302,0580']",Młynek 
+Przystanki nie przypisane do ulicy ,"['3437,3438']",Natolin 
+Przystanki nie przypisane do ulicy ,['3439'],Natolin - pętla 
+Przystanki nie przypisane do ulicy ,"['3212,3211']",Niecki 
+Przystanki nie przypisane do ulicy ,['3412'],Niesięcin 
+Przystanki nie przypisane do ulicy ,"['1588,0071']",Nowosolna 
+Przystanki nie przypisane do ulicy ,"['2118,1966,2119']",Olechów 
+Przystanki nie przypisane do ulicy ,"['3137,3136']",Ozorków Las 
+Przystanki nie przypisane do ulicy ,"['3408,3407']",Paprotnia 
+Przystanki nie przypisane do ulicy ,"['3478,3477']",Paprotnia I 
+Przystanki nie przypisane do ulicy ,"['3495,3494']",Paprotnia-Moczydła 
+Przystanki nie przypisane do ulicy ,['3238'],Parzęczewska /Staffa(Zg.) 
+Przystanki nie przypisane do ulicy ,['0708'],Piastów Kurak 
+Przystanki nie przypisane do ulicy ,"['2094,0573,0572,2095']",Piotrkowska Centrum 
+Przystanki nie przypisane do ulicy ,"['3055,3054']",Piątkowska /park (Zgierz) 
+Przystanki nie przypisane do ulicy ,"['3085,3077']",Plichtów 
+Przystanki nie przypisane do ulicy ,['3482'],Poselska (Aleks.) 
+Przystanki nie przypisane do ulicy ,"['3113,3114']",Przedmieście (Zgierz) 
+Przystanki nie przypisane do ulicy ,['3197'],Przedwiośnie(Brzeziny) 
+Przystanki nie przypisane do ulicy ,"['1717,1718']",ROD Polanka 
+Przystanki nie przypisane do ulicy ,"['1780,1778,1779,1781,1782']",Radogoszcz Wschód 
+Przystanki nie przypisane do ulicy ,"['0459,0458']",Radogoszcz Zachód 
+Przystanki nie przypisane do ulicy ,"['2082,1370,2085,2084,2083,1369']",Retkinia 
+Przystanki nie przypisane do ulicy ,"['0427,0426,0425']",Retkinia Kusocińskiego 
+Przystanki nie przypisane do ulicy ,"['3416,3415']",Rąbień Centrum 
+Przystanki nie przypisane do ulicy ,['3047'],Sezam (Zgierz) 
+Przystanki nie przypisane do ulicy ,['3523'],Sienkiewicza (Brzeziny) 
+Przystanki nie przypisane do ulicy ,['1734'],Sikawa Centrum Handlowe 
+Przystanki nie przypisane do ulicy ,['3081'],Skoszewy  
+Przystanki nie przypisane do ulicy ,"['3080,3082']",Skoszewy (szkoła) 
+Przystanki nie przypisane do ulicy ,['0178'],Skotniki 
+Przystanki nie przypisane do ulicy ,['2012'],Sortownia 
+Przystanki nie przypisane do ulicy ,"['3191,3192']",Sosnowiec 
+Przystanki nie przypisane do ulicy ,['3569'],Stare Skoszewy 23 
+Przystanki nie przypisane do ulicy ,['3570'],Stare Skoszewy 26 
+Przystanki nie przypisane do ulicy ,"['1176,1175']",Stoki 
+Przystanki nie przypisane do ulicy ,['3250'],Stryków Dworzec PKP 
+Przystanki nie przypisane do ulicy ,['3430'],Stróża-Ludwików 
+Przystanki nie przypisane do ulicy ,"['3199,3198']",Szatonia # 
+Przystanki nie przypisane do ulicy ,['2269'],Szklana 
+Przystanki nie przypisane do ulicy ,['2143'],Sąsieczno 
+Przystanki nie przypisane do ulicy ,"['3130,3131']",Słowik 
+Przystanki nie przypisane do ulicy ,"['3128,3129']",Słowik (szkoła) 
+Przystanki nie przypisane do ulicy ,['3319'],Targowy Rynek 
+Przystanki nie przypisane do ulicy ,"['3135,3134']",Tartak (Ozorków) 
+Przystanki nie przypisane do ulicy ,['0256'],Techniczna 6 
+Przystanki nie przypisane do ulicy ,"['1184,1167,1185']",Telefoniczna Zajezdnia 
+Przystanki nie przypisane do ulicy ,['0006'],Teofilów 
+Przystanki nie przypisane do ulicy ,['0953'],Teofilów Rojna 
+Przystanki nie przypisane do ulicy ,"['3440,3441']",Teolin 
+Przystanki nie przypisane do ulicy ,['3406'],Traugutta(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['3323'],Tuszyńska (Rzgów) 
+Przystanki nie przypisane do ulicy ,['2251'],Urząd Skarbowy Widzew 
+Przystanki nie przypisane do ulicy ,['3301'],Warszawska (Aleksandrów) 
+Przystanki nie przypisane do ulicy ,['3320'],Warszawska 16 (Aleksandrów) 
+Przystanki nie przypisane do ulicy ,['4897'],Waryńskiego(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['0970'],Widzew Augustów 
+Przystanki nie przypisane do ulicy ,['0900'],Widzew Czajkowskiego 
+Przystanki nie przypisane do ulicy ,"['3505,3506']",Wiączyń Dolny 16 
+Przystanki nie przypisane do ulicy ,"['3502,3501']",Wiączyń Dolny 96 
+Przystanki nie przypisane do ulicy ,['3405'],Woj. Polskiego(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['1250'],Wycieczkowa 
+Przystanki nie przypisane do ulicy ,['4737'],Wyszyńskiego 30(Ozorków) 
+Przystanki nie przypisane do ulicy ,['4736'],Wyszyńskiego 43(Ozorków) 
+Przystanki nie przypisane do ulicy ,['4799'],Wyszyńskiego 6(Ozorków) 
+Przystanki nie przypisane do ulicy ,['2267'],Zagajnikowa 
+Przystanki nie przypisane do ulicy ,"['1426,1425']",Zdrowie 
+Przystanki nie przypisane do ulicy ,"['2058,2194,3419']",Zielony Romanów 
+Przystanki nie przypisane do ulicy ,"['1678,1674,1676,1677']",cm. Szczecińska 
+Przystanki nie przypisane do ulicy ,['2132'],cm. Zarzew 
+Przystanki nie przypisane do ulicy ,['3425'],cmentarz 
+Przystanki nie przypisane do ulicy ,['3267'],ks. Popieluszki  (Zgierz) 
+Przystanki nie przypisane do ulicy ,['2230'],park Podolski 
+Przystanki nie przypisane do ulicy ,"['3337,3321']",pl. 500-lecia(Rzgów) 
+Przystanki nie przypisane do ulicy ,['0788'],pl. Dąbrowskiego 
+Przystanki nie przypisane do ulicy ,['4862'],pl. Jana Pawła II (Lutomiersk) 
+Przystanki nie przypisane do ulicy ,['0792'],pl. Kościelny 
+Przystanki nie przypisane do ulicy ,['4858'],pl. Kościuszki (Kazimierz) NŻ 
+Przystanki nie przypisane do ulicy ,"['1222,1223']",pl. Mikulskiego 
+Przystanki nie przypisane do ulicy ,"['0793,0795,0797']",pl. Niepodległości 
+Przystanki nie przypisane do ulicy ,['2184'],pl. Słoneczny 
+Przystanki nie przypisane do ulicy ,['0802'],pl. Wolności 
+Przystanki nie przypisane do ulicy ,['3548'],pl. Wolności(Konstantynów) 
+Przystanki nie przypisane do ulicy ,"['3068,3263']",pl. Łukasińskiego (Stryków) 
+Przystanki nie przypisane do ulicy ,['3003'],plac Kilińskiego (Zgierz) 
+Przystanki nie przypisane do ulicy ,['4998'],r. Insurekcji Kościuszkowskiej 
+Przystanki nie przypisane do ulicy ,['0494'],r. Powstańców 1863r. 
+Przystanki nie przypisane do ulicy ,"['1539,1616']",rondo Inwalidów 
+Przystanki nie przypisane do ulicy ,['3500'],ŁSSE Inwestycyjna 
+Przystanki nie przypisane do ulicy ,['3554'],ŁSSE Langiewicza 
+Przystanki nie przypisane do ulicy ,['0703'],ŁSSE Nowy Józefów 
+Przystanki nie przypisane do ulicy ,['3499'],ŁSSE ks. Janika 
+Przystanki nie przypisane do ulicy ,['3555'],ŁSSE Łąkowa 
+Przystanki nie przypisane do ulicy ,['0658'],Łagiewniki 
+Przystanki nie przypisane do ulicy ,['3373'],Łaska (Pabianice) 
+Przystanki nie przypisane do ulicy ,['1489'],Łukaszew Zjazdowa 
+Przystanki nie przypisane do ulicy ,"['4755,4756']",Łęczycka (Zgierz) 
+Przystanki nie przypisane do ulicy ,['3565'],Łódzka 109 (Konstantynów) NŻ 
+Przystanki nie przypisane do ulicy ,['3566'],Łódzka 112 (Konstantynów) NŻ 
+Przystanki nie przypisane do ulicy ,['3567'],Łódzka 171 (Konstantynów) NŻ 
+Przystanki nie przypisane do ulicy ,['3563'],Łódzka 31 (Konstantynów) NŻ 
+Przystanki nie przypisane do ulicy ,['3564'],Łódzka 82 (Konstantynów) NŻ 
+Przystanki nie przypisane do ulicy ,"['3409,3410']",Łódzka(Brzeziny) 
+Przystanki nie przypisane do ulicy ,['3061'],Śniechowskiego (Zgierz) 
+Przystanki nie przypisane do ulicy ,['2233'],Żubardź 
+Przystanki nie przypisane do ulicy ,['3403'],św. Anny 
+Przystanki nie przypisane do ulicy ,['3186'],św. Anny 27-31(Brzeziny) 
